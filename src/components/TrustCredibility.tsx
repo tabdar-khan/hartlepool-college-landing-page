@@ -28,21 +28,6 @@ const TrustCredibility = () => {
           ))}
         </div>
 
-        {/* Accreditations */}
-        <div className="text-center mb-12">
-          <h3 className="text-2xl font-bold text-gray-900 mb-8">Accredited & Recognized</h3>
-          <div className="flex flex-wrap justify-center items-center gap-8 grayscale hover:grayscale-0 transition-all duration-500">
-            <div className="bg-white p-6 rounded-lg shadow-sm border h-20 w-32 flex items-center justify-center">
-              <span className="font-bold text-gray-700">OFSTED</span>
-            </div>
-            <div className="bg-white p-6 rounded-lg shadow-sm border h-20 w-32 flex items-center justify-center">
-              <span className="font-bold text-gray-700">AOC</span>
-            </div>
-            <div className="bg-white p-6 rounded-lg shadow-sm border h-20 w-32 flex items-center justify-center">
-              <span className="font-bold text-gray-700">EDI</span>
-            </div>
-          </div>
-        </div>
 
         {/* Student Quote */}
         <div className="bg-white rounded-2xl p-8 shadow-lg max-w-4xl mx-auto">
