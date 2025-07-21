@@ -18,12 +18,12 @@ function App() {
     <div className="min-h-screen">
       <Navigation />
       <Hero />
-      <TrustCredibility />
       <About />
+      <TrustCredibility />
+      <Testimonials />
       <Programs />
       <StudentLife />
       <WhyChooseUs />
-      <Testimonials />
       <MidPageCTA />
       <Events />
       <FAQ />

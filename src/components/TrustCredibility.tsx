@@ -29,24 +29,7 @@ const TrustCredibility = () => {
         </div>
 
 
-        {/* Student Quote */}
-        <div className="bg-white rounded-2xl p-8 shadow-lg max-w-4xl mx-auto">
-          <blockquote className="text-xl italic text-gray-700 mb-6 text-center">
-            "Hartlepool College changed my life. The support I received from day one was incredible, 
-            and now I'm studying at university pursuing my dream career in engineering."
-          </blockquote>
-          <div className="flex items-center justify-center gap-4">
-            <img 
-              src="https://images.pexels.com/photos/1139743/pexels-photo-1139743.jpeg?auto=compress&cs=tinysrgb&w=100&h=100&fit=crop&crop=face"
-              alt="Sarah Johnson"
-              className="w-12 h-12 rounded-full object-cover"
-            />
-            <div className="text-left">
-              <div className="font-semibold text-gray-900">Sarah Johnson</div>
-              <div className="text-gray-600">A-Level Graduate, Class of 2023</div>
-            </div>
-          </div>
-        </div>
+        
       </div>
     </section>
   );
