@@ -5,7 +5,7 @@ const Programs = () => {
   const programs = [
     {
       icon: BookOpen,
-      title: 'A-Levels',
+      title: 'Diplomas',
       description: 'Traditional and modern subjects to prepare you for university and beyond.',
       subjects: ['Sciences', 'Humanities', 'Arts', 'Mathematics'],
       color: 'blue',

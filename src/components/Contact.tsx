@@ -147,7 +147,7 @@ const Contact = () => {
                   required
                 >
                   <option value="">Please select...</option>
-                  <option value="a-levels">A-Levels</option>
+                  <option value="Diplomas">Diplomas</option>
                   <option value="btec">BTEC Courses</option>
                   <option value="apprenticeships">Apprenticeships</option>
                   <option value="higher-education">Higher Education</option>

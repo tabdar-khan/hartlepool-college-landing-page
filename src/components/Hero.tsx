@@ -24,7 +24,7 @@ const Hero = () => {
         </h1>
         
         <p className="text-xl md:text-2xl mb-8 max-w-3xl mx-auto leading-relaxed text-blue-50">
-          Discover limitless opportunities at Hartlepool College. From A-levels to apprenticeships, 
+          Discover limitless opportunities at Hartlepool College. From Diplomas to apprenticeships, 
           we'll help you build the skills and confidence to achieve your dreams.
         </p>
 

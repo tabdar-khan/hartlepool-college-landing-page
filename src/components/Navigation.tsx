@@ -32,7 +32,7 @@ const Navigation = () => {
       name: 'Courses',
       href: '/courses',
       dropdown: [
-        { name: 'A-Levels', href: '/courses/a-levels' },
+        { name: 'Diplomas', href: '/courses/Diplomas' },
         { name: 'BTEC Courses', href: '/courses/btec' },
         { name: 'Apprenticeships', href: '/courses/apprenticeships' },
         { name: 'Higher Education', href: '/courses/higher-education' },
